@@ -39,3 +39,31 @@ h2{
     margin-top: 30px;
 }
 
+.image_cards{
+    margin: 10px;
+}
+.main_banner{
+    background-image: url(./images/american-public-power-association-XGAZzyLzn18-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+   height: auto;
+   }
+   a:link {
+    color: grey;
+  }
+
+  /* visited link */
+  a:visited {
+    color: blue;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: lightcoral;
+  }
+
+  /* selected link */
+  a:active {
+    color: orange;
+
