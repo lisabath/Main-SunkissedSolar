@@ -28,3 +28,11 @@
   #send {
     margin-top: 10px;
   }
+  #foot {
+   
+    justify-content: center;
+  }
+
+  .fa-icon{
+    color: white;
+  }
