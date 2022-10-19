@@ -1,0 +1,31 @@
+#title {
+  text-align: center;
+  margin-top: 20px;
+  color: #20354d;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#message {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #20354d;
+}
+#container {
+  box-sizing: border-box;
+  margin-left: 400px;
+
+  margin-right: 400px;
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  border: 2px outset #212529;
+  border-radius: 50px;
+  border-width: 100px;
+  padding: 20px;
+}
+#send {
+  margin-top: 10px;
+}
+
